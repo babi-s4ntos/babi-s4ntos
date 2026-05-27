@@ -74,8 +74,8 @@ width="620"
 
 ## 🐍 Minha cobra de contribuições
 
-<![snake gif](https://github.com/SEU-USUARIO/snake-output/blob/output/github-contribution-grid-snake.svg)
-<br><br>
+<img src="https://raw.githubusercontent.com/babi-s4ntos/babi-s4ntos/output/github-contribution-grid-snake2.svg" />
+
 <br><br>
 
 </div>
