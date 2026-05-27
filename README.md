@@ -74,11 +74,7 @@ width="620"
 
 ## 🐍 Minha cobra de contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/babi-s4ntos/babi-s4ntos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/babi-s4ntos/babi-s4ntos/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/babi-s4ntos/babi-s4ntos/output/github-contribution-grid-snake.svg">
-</picture>
+<![snake gif](https://github.com/SEU-USUARIO/snake-output/blob/output/github-contribution-grid-snake.svg)
 <br><br>
 <br><br>
 
