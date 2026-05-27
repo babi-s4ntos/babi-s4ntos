@@ -72,10 +72,13 @@ width="620"
 
 <div align="center">
 
-## ⚡ Designer System ⚡
+## 🐍 Minha cobra de contribuições
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=babi-s4ntos&bg_color=0d1117&color=ff1493&line=ff00cc&point=ffffff&area=true&hide_border=true&radius=16"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/babi-s4ntos/babi-s4ntos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/babi-s4ntos/babi-s4ntos/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/babi-s4ntos/babi-s4ntos/output/github-contribution-grid-snake.svg">
+</picture>
 <br><br>
 <br><br>
 
