@@ -8,8 +8,22 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=DESIGNER%20SYSTEM&fontAlign=50&fontAlignY=40&color=0:000000,50:FF1493,100:FFB6D9&fontColor=ffffff&animation=fadeIn&fontSize=45"/>
+<img 
+  align="right" 
+  alt="Babi Neon Art" 
+  width="380" 
+  src="./assets/babi-neon.png"
+  style="
+    border-radius: 30px;
+    filter: drop-shadow(0 0 25px #ff1493)
+            drop-shadow(0 0 50px #ff1493)
+            drop-shadow(0 0 80px #ff69b4);
+    margin-left: 30px;
+    margin-top: -10px;
+  "
+/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=DESIGNER%20SYSTEM&fontAlign=50&fontAlignY=40&color=0:000000,50:FF1493,100:FFB6D9&fontColor=ffffff&animation=fadeIn&fontSize=45"/>
 </div>
 
 ---
