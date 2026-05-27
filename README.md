@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff1493,50:ff00cc,100:8a2be2&section=header&text=BABI%20SANTOS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<h1 align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=2500&pause=1000&color=FF1493&center=true&vCenter=true&width=700&height=100&lines=%E2%9C%A6+BABI+SANTOS+%E2%9C%A6;%F0%9F%92%96+CREATIVE+DESIGNER+%F0%9F%92%96" />
+
+</h1>
 
 </div>
 
@@ -26,7 +30,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,figma,github,vscode,tailwind,photoshop,illustrator" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,figma,github,vscode" />
 
 </p>
 
@@ -73,13 +77,6 @@ width="620"
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=babi-s4ntos&bg_color=0d1117&color=ff1493&line=ff00cc&point=ffffff&area=true&hide_border=true&radius=16"/>
 
 <br><br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=babi-s4ntos&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&icon_color=ff00cc&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babi-s4ntos&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&text_color=ffffff"/>
-
 <br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff1493,50:ff00cc,100:8a2be2"/>
 
 </div>
