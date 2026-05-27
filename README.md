@@ -8,8 +8,6 @@
 <tr border="none">
 <td width="55%" align="left">
 
-# ⚡ BABI SANTOS ⚡
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF4DFF&center=false&vCenter=true&width=500&lines=Graphic+Designer;Front-End+Developer;UX%2FUI+Designer;Creative+Developer" />
 
 <br>
@@ -62,22 +60,3 @@ width="360"
 </tr>
 </table>
 
----
-
-<div align="center">
-
-## ⚡ Designer System ⚡
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&bg_color=0d0d0d&color=ff00cc&line=8a2be2&point=ffffff&area=true&hide_border=true"/>
-
-<br><br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff00cc,50:8a2be2,100:00d4ff"/>
-
-</div>
