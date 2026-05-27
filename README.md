@@ -81,9 +81,4 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=babi-s4ntos&
 
 <br>
 
-<!-- STATS com visual neon -->
-<img 
-src="https://github-readme-stats.vercel.app/api?username=babi-s4ntos&show_icons=true&theme=radical&title_color=ff1493&icon_color=ff4dd2&text_color=ffffff&bg_color=0d0d0d"
-/>
-
 </div>
