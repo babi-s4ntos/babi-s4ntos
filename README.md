@@ -20,7 +20,7 @@
 ### 💫 Sobre Mim
 
 ✨ Criando experiências visuais modernas e interativas  
-🎨 Apaixonada por design futurista e interfaces neon  
+🎨 Apaixonada por design, Ux Ui e Desenvolvimento Web
 💻 Desenvolvedora Front-End criativa  
 🚀 Explorando tecnologia + design todos os dias  
 
