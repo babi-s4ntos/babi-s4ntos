@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/GitHub-ff00cc?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/babi-santos-2110bb24a/" target="_blank">
+<a href="https://www.linkedin.com/in/babi-santos-2110bb24a" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
